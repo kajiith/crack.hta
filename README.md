@@ -1,2 +1,1 @@
-# crack.hta
-ANSI workaround
+ÿþlucija
