@@ -1,0 +1,2 @@
+# crack.hta
+ANSI workaround
